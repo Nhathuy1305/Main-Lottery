@@ -1,5 +1,7 @@
 package sample;
 
+
+
 public class Counting {
     Variable var = new Variable();
 
